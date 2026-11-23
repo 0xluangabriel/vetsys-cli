@@ -122,8 +122,8 @@ Lists of dictionaries, functions with return values, nested loops, the filter pa
 Requires only Python 3.
 
 ```bash
-git clone https://github.com/0xluangabriel/vetsys-clinica.git
-cd vetsys-clinica
+git clone https://github.com/0xluangabriel/vetsys-cli.git
+cd vetsys-cli
 python3 main.py
 ```
 
