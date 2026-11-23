@@ -118,8 +118,8 @@ Listas de dicionários, funções com retorno, laços aninhados, padrão filtro 
 Requer apenas Python 3.
 
 ```bash
-git clone https://github.com/0xluangabriel/vetsys-clinica.git
-cd vetsys-clinica
+git clone https://github.com/0xluangabriel/vetsys-cli.git
+cd vetsys-cli
 python3 main.py
 ```
 
