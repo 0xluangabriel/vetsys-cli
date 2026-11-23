@@ -1,5 +1,7 @@
 # VetSys — Sistema de Gestão para Clínicas Veterinárias
 
+**Português** | [English](README.en.md)
+
 Sistema de linha de comando em Python puro, sem dependências externas, para cadastro de tutores e animais, agendamento de procedimentos, carteira de vacinação e histórico clínico. Modela dados relacionais sem banco de dados, usando listas de dicionários ligadas por ID e persistência em JSON.
 
 ---
